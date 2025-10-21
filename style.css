@@ -1,0 +1,29 @@
+body, p, h2, div{
+    font-family:'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: grey;  
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+p{
+    text-align: center;
+}
+div{
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 25%; 
+}
+div{
+    border: 1px solid white; 
+}
+
